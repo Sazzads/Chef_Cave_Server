@@ -4,13 +4,13 @@
         "food_id": "001",
         "name": "Byrani",
         "ingredients": {
-            "1": "rice",
-            "2": "beef",
-            "3": "Mashala",
-            "4": "Potatoo",
-            "5": "oil"
+            "a": "rice",
+            "b": "beef",
+            "c": "Mashala",
+            "d": "Potatoo",
+            "e": "oil"
         },
-        "cooking method": "Add oil to a pot or pressure cooker and heat it. ... Add onions and fry till they turn golden. ... Next add chicken and fry till the color slightly changes to pale. Add chopped tomatoes, yogurt, red chili powder, corinader leaves and mint. Cook till the mixture turns thick and dry.",
+        "cookingMethod": "Add oil to a pot or pressure cooker and heat it. ... Add onions and fry till they turn golden. ... Next add chicken and fry till the color slightly changes to pale. Add chopped tomatoes, yogurt, red chili powder, corinader leaves and mint. Cook till the mixture turns thick and dry.",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -21,13 +21,13 @@
         "food_id": "002",
         "name": "Kacchi",
         "ingredients": {
-            "1": "rice",
-            "2": "Checken",
-            "3": "Mashala",
-            "4": "Egg",
-            "5": "oil"
+            "a": "rice",
+            "b": "Checken",
+            "c": "Mashala",
+            "d": "Egg",
+            "e": "oil"
         },
-        "cooking method": "The term kachchi refers to the biriyani ingredients being combined raw in layers instead of first cooking the meat or rice separately. Traditionally, the biriyani is cooked in a clay oven and the cooking pot is usually sealed with flour dough to allow the biriyani to cook in its own steam.",
+        "cookingMethod": "The term kachchi refers to the biriyani ingredients being combined raw in layers instead of first cooking the meat or rice separately. Traditionally, the biriyani is cooked in a clay oven and the cooking pot is usually sealed with flour dough to allow the biriyani to cook in its own steam.",
         "rating": {
             "number": 5,
             "badge": "Excellent"
@@ -38,13 +38,13 @@
         "food_id": "003",
         "name": "Borhani",
         "ingredients": {
-            "1": "water",
-            "2": "Mint",
-            "3": "Milk",
-            "4": "Salt",
-            "5": "Sugar"
+            "a": "water",
+            "b": "Mint",
+            "c": "Milk",
+            "d": "Salt",
+            "e": "Sugar"
         },
-        "cooking method": "How is borhani made? Image result for borhani making method Borhani is made from sour doi, green chilli, mustard seeds, black salt, coriander and mint. It is considered by some to be a type of lassi.",
+        "cookingMethod": "How is borhani made? Image result for borhani making method Borhani is made from sour doi, green chilli, mustard seeds, black salt, coriander and mint. It is considered by some to be a type of lassi.",
         "rating": {
             "number": 4,
             "badge": "Good"
@@ -55,13 +55,13 @@
         "food_id": "002",
         "name": "Kacchi",
         "ingredients": {
-            "1": "rice",
-            "2": "Checken",
-            "3": "Mashala",
-            "4": "Egg",
-            "5": "oil"
+            "a": "rice",
+            "b": "Checken",
+            "c": "Mashala",
+            "d": "Egg",
+            "e": "oil"
         },
-        "cooking method": "The term kachchi refers to the biriyani ingredients being combined raw in layers instead of first cooking the meat or rice separately. Traditionally, the biriyani is cooked in a clay oven and the cooking pot is usually sealed with flour dough to allow the biriyani to cook in its own steam.",
+        "cookingMethod": "The term kachchi refers to the biriyani ingredients being combined raw in layers instead of first cooking the meat or rice separately. Traditionally, the biriyani is cooked in a clay oven and the cooking pot is usually sealed with flour dough to allow the biriyani to cook in its own steam.",
         "rating": {
             "number": 5,
             "badge": "Excellent"
@@ -72,13 +72,13 @@
         "food_id": "003",
         "name": "Borhani",
         "ingredients": {
-            "1": "water",
-            "2": "Mint",
-            "3": "Milk",
-            "4": "Salt",
-            "5": "Sugar"
+            "a": "water",
+            "b": "Mint",
+            "c": "Milk",
+            "d": "Salt",
+            "e": "Sugar"
         },
-        "cooking method": "How is borhani made? Image result for borhani making method Borhani is made from sour doi, green chilli, mustard seeds, black salt, coriander and mint. It is considered by some to be a type of lassi.",
+        "cookingMethod": "How is borhani made? Image result for borhani making method Borhani is made from sour doi, green chilli, mustard seeds, black salt, coriander and mint. It is considered by some to be a type of lassi.",
         "rating": {
             "number": 4,
             "badge": "Good"
@@ -89,13 +89,13 @@
         "food_id": "004",
         "name": "Fish Curry",
         "ingredients": {
-            "1": "fish",
-            "2": "onion",
-            "3": "Mashala",
-            "4": "Been",
-            "5": "oil"
+            "a": "fish",
+            "b": "onion",
+            "c": "Mashala",
+            "d": "Been",
+            "e": "oil"
         },
-        "cooking method": "Heat 1 tbsp oil in a pan. Add cumin and allow to splutter. ... Add ginger garlic and fry for 30 to 60 seconds. ... Fry until the raw smell goes away. Add coconut, red chili powder, turmeric and fennel seeds (optional). Fry everything well until the onion masala smells good.",
+        "cookingMethod": "Heat 1 tbsp oil in a pan. Add cumin and allow to splutter. ... Add ginger garlic and fry for 30 to 60 seconds. ... Fry until the raw smell goes away. Add coconut, red chili powder, turmeric and fennel seeds (optional). Fry everything well until the onion masala smells good.",
         "rating": {
             "number": 3,
             "badge": "good"
@@ -106,13 +106,13 @@
         "food_id": "003",
         "name": "Borhani",
         "ingredients": {
-            "1": "water",
-            "2": "Mint",
-            "3": "Milk",
-            "4": "Salt",
-            "5": "Sugar"
+            "a": "water",
+            "b": "Mint",
+            "c": "Milk",
+            "d": "Salt",
+            "e": "Sugar"
         },
-        "cooking method": "How is borhani made? Image result for borhani making method Borhani is made from sour doi, green chilli, mustard seeds, black salt, coriander and mint. It is considered by some to be a type of lassi.",
+        "cookingMethod": "How is borhani made? Image result for borhani making method Borhani is made from sour doi, green chilli, mustard seeds, black salt, coriander and mint. It is considered by some to be a type of lassi.",
         "rating": {
             "number": 4,
             "badge": "Good"
@@ -123,13 +123,13 @@
         "food_id": "004",
         "name": "Fish Curry",
         "ingredients": {
-            "1": "fish",
-            "2": "onion",
-            "3": "Mashala",
-            "4": "Been",
-            "5": "oil"
+            "a": "fish",
+            "b": "onion",
+            "c": "Mashala",
+            "d": "Been",
+            "e": "oil"
         },
-        "cooking method": "Heat 1 tbsp oil in a pan. Add cumin and allow to splutter. ... Add ginger garlic and fry for 30 to 60 seconds. ... Fry until the raw smell goes away. Add coconut, red chili powder, turmeric and fennel seeds (optional). Fry everything well until the onion masala smells good.",
+        "cookingMethod": "Heat 1 tbsp oil in a pan. Add cumin and allow to splutter. ... Add ginger garlic and fry for 30 to 60 seconds. ... Fry until the raw smell goes away. Add coconut, red chili powder, turmeric and fennel seeds (optional). Fry everything well until the onion masala smells good.",
         "rating": {
             "number": 3,
             "badge": "good"
@@ -140,13 +140,13 @@
         "food_id": "005",
         "name": "Chicken Curry",
         "ingredients": {
-            "1": "Chicken",
-            "2": "salt",
-            "3": "Mashala",
-            "4": "Potatoo",
-            "5": "oil"
+            "a": "Chicken",
+            "b": "salt",
+            "c": "Mashala",
+            "d": "Potatoo",
+            "e": "oil"
         },
-        "cooking method": "Heat oil in a pan and sauté the onion paste, garlic and ginger paste till golden brown. Add tomato puree. ... Add chicken pieces into the masala. ... Add 1/2 cup of water and stir. ... Garnish with chopped coriander and serve.",
+        "cookingMethod": "Heat oil in a pan and sauté the onion paste, garlic and ginger paste till golden brown. Add tomato puree. ... Add chicken pieces into the masala. ... Add 1/2 cup of water and stir. ... Garnish with chopped coriander and serve.",
         "rating": {
             "number": 4,
             "badge": "Excellent"
@@ -157,13 +157,13 @@
         "food_id": "004",
         "name": "Fish Curry",
         "ingredients": {
-            "1": "fish",
-            "2": "onion",
-            "3": "Mashala",
-            "4": "Been",
-            "5": "oil"
+            "a": "fish",
+            "b": "onion",
+            "c": "Mashala",
+            "d": "Been",
+            "e": "oil"
         },
-        "cooking method": "Heat 1 tbsp oil in a pan. Add cumin and allow to splutter. ... Add ginger garlic and fry for 30 to 60 seconds. ... Fry until the raw smell goes away. Add coconut, red chili powder, turmeric and fennel seeds (optional). Fry everything well until the onion masala smells good.",
+        "cookingMethod": "Heat 1 tbsp oil in a pan. Add cumin and allow to splutter. ... Add ginger garlic and fry for 30 to 60 seconds. ... Fry until the raw smell goes away. Add coconut, red chili powder, turmeric and fennel seeds (optional). Fry everything well until the onion masala smells good.",
         "rating": {
             "number": 3,
             "badge": "good"
@@ -174,13 +174,13 @@
         "food_id": "005",
         "name": "Chicken Curry",
         "ingredients": {
-            "1": "Chicken",
-            "2": "salt",
-            "3": "Mashala",
-            "4": "Potatoo",
-            "5": "oil"
+            "a": "Chicken",
+            "b": "salt",
+            "c": "Mashala",
+            "d": "Potatoo",
+            "e": "oil"
         },
-        "cooking method": "Heat oil in a pan and sauté the onion paste, garlic and ginger paste till golden brown. Add tomato puree. ... Add chicken pieces into the masala. ... Add 1/2 cup of water and stir. ... Garnish with chopped coriander and serve.",
+        "cookingMethod": "Heat oil in a pan and sauté the onion paste, garlic and ginger paste till golden brown. Add tomato puree. ... Add chicken pieces into the masala. ... Add 1/2 cup of water and stir. ... Garnish with chopped coriander and serve.",
         "rating": {
             "number": 4,
             "badge": "Excellent"
@@ -191,13 +191,13 @@
         "food_id": "006",
         "name": "Morog Polaw",
         "ingredients": {
-            "1": "rice",
-            "2": "Morog",
-            "3": "Mashala",
-            "4": "Ghee",
-            "5": "salt"
+            "a": "rice",
+            "b": "Morog",
+            "c": "Mashala",
+            "d": "Ghee",
+            "e": "salt"
         },
-        "cooking method": "Put in Almonds in a small bowl, pour water and soak the almonds for 30 minutes. Heat oil and Ghee in your dutch oven over medium heat. Reduce the heat to low, add all the whole spices and give a quick stir for a few seconds to release the aroma from the whole spices.",
+        "cookingMethod": "Put in Almonds in a small bowl, pour water and soak the almonds for 30 minutes. Heat oil and Ghee in your dutch oven over medium heat. Reduce the heat to low, add all the whole spices and give a quick stir for a few seconds to release the aroma from the whole spices.",
         "rating": {
             "number": 5,
             "badge": "Excellent"
@@ -208,13 +208,13 @@
         "food_id": "005",
         "name": "Chicken Curry",
         "ingredients": {
-            "1": "Chicken",
-            "2": "salt",
-            "3": "Mashala",
-            "4": "Potatoo",
-            "5": "oil"
+            "a": "Chicken",
+            "b": "salt",
+            "c": "Mashala",
+            "d": "Potatoo",
+            "e": "oil"
         },
-        "cooking method": "Heat oil in a pan and sauté the onion paste, garlic and ginger paste till golden brown. Add tomato puree. ... Add chicken pieces into the masala. ... Add 1/2 cup of water and stir. ... Garnish with chopped coriander and serve.",
+        "cookingMethod": "Heat oil in a pan and sauté the onion paste, garlic and ginger paste till golden brown. Add tomato puree. ... Add chicken pieces into the masala. ... Add 1/2 cup of water and stir. ... Garnish with chopped coriander and serve.",
         "rating": {
             "number": 4,
             "badge": "Excellent"
@@ -225,13 +225,13 @@
         "food_id": "006",
         "name": "Morog Polaw",
         "ingredients": {
-            "1": "rice",
-            "2": "Morog",
-            "3": "Mashala",
-            "4": "Ghee",
-            "5": "salt"
+            "a": "rice",
+            "b": "Morog",
+            "c": "Mashala",
+            "d": "Ghee",
+            "e": "salt"
         },
-        "cooking method": "Put in Almonds in a small bowl, pour water and soak the almonds for 30 minutes. Heat oil and Ghee in your dutch oven over medium heat. Reduce the heat to low, add all the whole spices and give a quick stir for a few seconds to release the aroma from the whole spices.",
+        "cookingMethod": "Put in Almonds in a small bowl, pour water and soak the almonds for 30 minutes. Heat oil and Ghee in your dutch oven over medium heat. Reduce the heat to low, add all the whole spices and give a quick stir for a few seconds to release the aroma from the whole spices.",
         "rating": {
             "number": 5,
             "badge": "Excellent"
@@ -242,13 +242,13 @@
         "food_id": "001",
         "name": "Byrani",
         "ingredients": {
-            "1": "rice",
-            "2": "beef",
-            "3": "Mashala",
-            "4": "Potatoo",
-            "5": "oil"
+            "a": "rice",
+            "b": "beef",
+            "c": "Mashala",
+            "d": "Potatoo",
+            "e": "oil"
         },
-        "cooking method": "Add oil to a pot or pressure cooker and heat it. ... Add onions and fry till they turn golden. ... Next add chicken and fry till the color slightly changes to pale. Add chopped tomatoes, yogurt, red chili powder, corinader leaves and mint. Cook till the mixture turns thick and dry.",
+        "cookingMethod": "Add oil to a pot or pressure cooker and heat it. ... Add onions and fry till they turn golden. ... Next add chicken and fry till the color slightly changes to pale. Add chopped tomatoes, yogurt, red chili powder, corinader leaves and mint. Cook till the mixture turns thick and dry.",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -259,13 +259,13 @@
         "food_id": "006",
         "name": "Morog Polaw",
         "ingredients": {
-            "1": "rice",
-            "2": "Morog",
-            "3": "Mashala",
-            "4": "Ghee",
-            "5": "salt"
+            "a": "rice",
+            "b": "Morog",
+            "c": "Mashala",
+            "d": "Ghee",
+            "e": "salt"
         },
-        "cooking method": "Put in Almonds in a small bowl, pour water and soak the almonds for 30 minutes. Heat oil and Ghee in your dutch oven over medium heat. Reduce the heat to low, add all the whole spices and give a quick stir for a few seconds to release the aroma from the whole spices.",
+        "cookingMethod": "Put in Almonds in a small bowl, pour water and soak the almonds for 30 minutes. Heat oil and Ghee in your dutch oven over medium heat. Reduce the heat to low, add all the whole spices and give a quick stir for a few seconds to release the aroma from the whole spices.",
         "rating": {
             "number": 5,
             "badge": "Excellent"
@@ -276,13 +276,13 @@
         "food_id": "001",
         "name": "Byrani",
         "ingredients": {
-            "1": "rice",
-            "2": "beef",
-            "3": "Mashala",
-            "4": "Potatoo",
-            "5": "oil"
+            "a": "rice",
+            "b": "beef",
+            "c": "Mashala",
+            "d": "Potatoo",
+            "e": "oil"
         },
-        "cooking method": "Add oil to a pot or pressure cooker and heat it. ... Add onions and fry till they turn golden. ... Next add chicken and fry till the color slightly changes to pale. Add chopped tomatoes, yogurt, red chili powder, corinader leaves and mint. Cook till the mixture turns thick and dry.",
+        "cookingMethod": "Add oil to a pot or pressure cooker and heat it. ... Add onions and fry till they turn golden. ... Next add chicken and fry till the color slightly changes to pale. Add chopped tomatoes, yogurt, red chili powder, corinader leaves and mint. Cook till the mixture turns thick and dry.",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -293,13 +293,13 @@
         "food_id": "002",
         "name": "Kacchi",
         "ingredients": {
-            "1": "rice",
-            "2": "Checken",
-            "3": "Mashala",
-            "4": "Egg",
-            "5": "oil"
+            "a": "rice",
+            "b": "Checken",
+            "c": "Mashala",
+            "d": "Egg",
+            "e": "oil"
         },
-        "cooking method": "The term kachchi refers to the biriyani ingredients being combined raw in layers instead of first cooking the meat or rice separately. Traditionally, the biriyani is cooked in a clay oven and the cooking pot is usually sealed with flour dough to allow the biriyani to cook in its own steam.",
+        "cookingMethod": "The term kachchi refers to the biriyani ingredients being combined raw in layers instead of first cooking the meat or rice separately. Traditionally, the biriyani is cooked in a clay oven and the cooking pot is usually sealed with flour dough to allow the biriyani to cook in its own steam.",
         "rating": {
             "number": 5,
             "badge": "Excellent"

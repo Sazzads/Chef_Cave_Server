@@ -20,14 +20,14 @@ app.get('/allfoods', (req, res) => {
 
 app.get('/allfoods/:id', (req, res) => {
     const id = req.params.id;
-    console.log(id);
+    // console.log(id);
     const selectedFood = allfoods.filter(f => f.id === id);
     res.send(selectedFood)
 })
 
 app.get('/allchefs/:id', (req, res) => {
     const id = req.params.id;
-    console.log(id);
+    // console.log(id);
     const allchefs = allChefs.find(c => c.id === id);
     res.send(allchefs)
 })
